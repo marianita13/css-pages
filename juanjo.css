@@ -62,7 +62,7 @@ div{
 } */
 
 * {
-    margin: auto;
+    margin: 0auto;
     padding: 4px;
     box-sizing: border-box;
 }
@@ -73,6 +73,7 @@ body{
 
 #titulo{
     width: 50%;
+    margin: auto;
 }
 
 h2{
@@ -83,7 +84,7 @@ h2{
 p{
     width: 50%;
     text-align:initial;
-    word-spacing: 3px;
+    word-spacing: 5px;
 }
 
 .imagenes{
